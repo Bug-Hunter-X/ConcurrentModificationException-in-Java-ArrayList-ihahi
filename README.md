@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java involving the ConcurrentModificationException when modifying an ArrayList during iteration. The `ConcurrentModificationExceptionExample.java` file shows the buggy code. The solution is in `ConcurrentModificationExceptionSolution.java` and involves using an Iterator for safe removal while iterating.
